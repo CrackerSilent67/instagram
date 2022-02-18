@@ -11,6 +11,6 @@
 #### CARA MENJALANKAN SCRIPT:
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
- cd zmbf
+ cd instagram
  python run.py
  ```
